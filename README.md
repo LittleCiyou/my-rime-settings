@@ -36,6 +36,6 @@ This repository contains my highly customized configuration for **RIME (Weasel/r
 ---
 
 ###  Environment
-* **OS:** Windows 11 (Weasel 0.17.4+)
+* **OS:** Windows 10 (Weasel 0.17.4+)
 * **Base Schema:** rime-ice (雾凇拼音)
 * **Plugins:** AI-Rime (v3), Wanxiang-LTS (Mizuka-Wu)
