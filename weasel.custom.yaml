@@ -1,0 +1,22 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Mar 22 00:44:03 2026"
+  rime_version: 1.13.1
+patch:
+  app_options:
+    Code.exe: {ascii_mode: true}
+    WindowsTerminal.exe: {ascii_mode: true}
+    bash.exe: {ascii_mode: true}
+    cmd.exe: {ascii_mode: true}
+    "git-bash.exe": {ascii_mode: true}
+    powershell.exe: {ascii_mode: true}
+    pwsh.exe: {ascii_mode: true}
+  color_scheme: 
+  "style/color_scheme": kuon
+  "style/color_scheme_dark": purity_of_form_custom                # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
+
+  "style/font_face": "霞鹜文楷 GB, Segoe UI, Microsoft YaHei, Segoe UI Emoji, Noto Color Emoji"
+  "style/font_point": 16
+  "style/horizontal": true

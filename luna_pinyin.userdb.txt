@@ -1,0 +1,15 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	7
+#@/user_id	TonyjiansWindows
+ke long 	克隆	c=1 d=0.97531 t=7
+ni shuo de 	你說的	c=1 d=0.970446 t=7
+pin yin 	拼音	c=1 d=0.99005 t=7
+shu liang 	數量	c=1 d=1 t=7
+tong 	通	c=0 d=0.097531 t=7
+wu song 	霧凇	c=1 d=0.985112 t=7
+zhu shi 	注釋	c=1 d=0.995012 t=7
+zou bu 	走不	c=0 d=0.097531 t=7
+zou bu tong 	走不通	c=1 d=0.980199 t=7

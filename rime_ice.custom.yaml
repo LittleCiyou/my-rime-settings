@@ -1,0 +1,25 @@
+patch:
+  pin_cand_filter:
+  
+    - iphone iPhone手机
+
+  melt_eng/enable_user_dict: true
+
+  grammar:
+    language: wanxiang-lts-zh-hans
+    collocation_max_length: 8
+    collocation_min_length: 3
+  translator/contextual_suggestions: false
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+  "engine/translators/@next": lua_translator@lianxiang_translator
+  lianxiang:
+    dictionary: lianxiang
+    enable_completion: false
+    enable_sentence: true
+    initial_quality: -1
+
+  speller/algebra/+:
+    - derive/^wo(.*)$/wi$1/  # wi → wo
+    

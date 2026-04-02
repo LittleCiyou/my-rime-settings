@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	13
+#@/user_id	TonyjiansWindows
+can 	can	c=2 d=1.87883 t=13
+chatgpt 	ChatGPT	c=1 d=0.97531 t=13
+hahaha 	hahaha	c=1 d=0.955997 t=13
+hair 	hair	c=1 d=0.970446 t=13
+hello 	hello	c=6 d=5.78566 t=13
+world 	world	c=5 d=4.80965 t=13
