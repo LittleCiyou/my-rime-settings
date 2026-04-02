@@ -31,14 +31,11 @@ This repository contains my highly customized configuration for **RIME (Weasel/r
 * **万象大模型注入：** 开启了 **[万象 (Wanxiang-LTS)](https://github.com/mizuka-wu/rime-wanxiang)** 语法支持，大幅提升长句输入的准确度与语境理解力。
 * **Lua 联想引擎：** 引入 `lianxiang_translator` 插件，支持更自然的词组与句子联想。
 * **自定拼写算法：** * 包含针对性模糊音处理（如 `wi` → `wo`），适配个人输入习惯。
-* **精细化过滤：** 自定义候选过滤规则（如 iPhone 专属关键词映射）。
-* **性能优化：** 开启了 `melt_eng` 用户词典支持，并对重码显示与上下文建议进行了精细调优。
+* **精细化过滤：** 自定义候选过滤规则（如 iPhone 专属关键词映射）。。
 
 ---
 
-### 🛠️ Environment
+###  Environment
 * **OS:** Windows 11 (Weasel 0.17.4+)
 * **Base Schema:** rime-ice (雾凇拼音)
 * **Plugins:** AI-Rime (v3), Wanxiang-LTS (Mizuka-Wu)
-
-*Stay curious. Keep tinkering. 🚀*
