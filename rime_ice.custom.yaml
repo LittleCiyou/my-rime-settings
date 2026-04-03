@@ -23,3 +23,6 @@ patch:
   speller/algebra/+:
     - derive/^wo(.*)$/wi$1/  # wi → wo
     
+  # AI-Rime v3 配置
+  engine/processors/@after 0: lua_processor@*bzx_processor
+  engine/filters/@before last: lua_filter@*bzx_filter
